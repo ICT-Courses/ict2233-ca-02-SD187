@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React.js, showcasing 
 
 ## 🚀 Live Demo
 
-- **Live Site**: [Your GitHub Pages URL]
+- **Live Site**: [https://ict-courses.github.io/ict2233-ca-02-SD187/]
 - **Repository**: [https://github.com/ICT-Courses/ict2233-ca-02-SD187](https://github.com/ICT-Courses/ict2233-ca-02-SD187)
 
 ## 📋 Features
