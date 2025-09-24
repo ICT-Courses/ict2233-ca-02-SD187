@@ -24,7 +24,7 @@ const Footer = () => {
       },
       {
         name: 'Email',
-        href: 'mailto:sadeepa.rathnayaka@example.com',
+        href: 'mailto:sadeesd3@gmail.com',
         icon: FaEnvelope,
       },
     ],
